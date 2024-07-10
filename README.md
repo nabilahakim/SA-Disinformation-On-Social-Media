@@ -1,4 +1,4 @@
-# SA-Disinformation-On-Social-Media
+# Sentiment Analysis-Indonesia Presidential Election 2024-Ensemble Learning-Disinformation on Social Media
 This research uses Indonesian sentiment datasets crawled directly from Twitter 2023 related to the presidential election in 2024 through keywords 3 names of predicted presidential candidates: Anies, Prabowo, and Ganjar.  
 
 my research paper: https://ieeexplore.ieee.org/document/10262584
